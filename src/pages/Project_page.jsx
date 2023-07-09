@@ -34,7 +34,7 @@ const Project_page = () => {
             langs: ["React.js, Node.js, Tailwind css"],
             title: "Personal Website",
             disc: "The current website",
-            github: "https://github.com/priniraula/music-tracker-dev",
+            github: "https://github.com/priniraula/personal-website",
         },
     ];
 
