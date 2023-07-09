@@ -1,5 +1,5 @@
 import React from "react";
-import Project_card from "../components/project_card/Project_card";
+import ProjectCard from "../components/project_card/Project_card";
 
 import personalWebsiteImg from "./imgs/pic1.png";
 import mazeGenImg from "./imgs/pic2.png";
@@ -66,7 +66,7 @@ const Project_page = () => {
                     {projects.map(({ img, langs, title, disc, github }) => {
                         return (
                             <>
-                                <Project_card
+                                <ProjectCard
                                     img={img}
                                     langs={langs}
                                     title={title}

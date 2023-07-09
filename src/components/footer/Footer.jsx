@@ -36,7 +36,7 @@ const Footer = () => {
                         </h2>
                         {/* media */}
                         <div className="flex items-center gap-2">
-                            <a href="#">
+                            <a href="incorrectlink">
                                 <img
                                     src={require("./imgs/discord.png")}
                                     width="40px"
